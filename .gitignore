@@ -1,3 +1,4 @@
 adapter/#auto_saved_files#
 adapter/_autosave*.*
 adapter/*.lck
+adapter/everstar-backups/*
