@@ -1,2 +1,2 @@
 # igs_rom_adapter
-Adapter for dumping IGS/Everstar ROms
+Adapter for dumping IGS/Everstar ROMs
