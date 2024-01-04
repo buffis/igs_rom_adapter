@@ -1,5 +1,7 @@
 # IGS/Everstar ROM Adapter
 
+![Adapter in programmer](adapterread.jpg)
+
 Simple adapter for dumping IGS/Everstar EV29LV160 and EV29LV640 ROMs with any programmer supporting M27V322 EPROMs.
 
 These ROMs appear on IGS-made boards, and are not supported by most programmers.
@@ -24,6 +26,12 @@ Gerbers ready for fabrication is available in adapter/gerber/gerber.zip
 3. Mount 2x 21pin headers on the underside of the board at the M27V322 position.
 4. Mount 3pin header at the A21 position. Attach a jumper between center pin and 0.
 5. Mount 5x pull-up resistors.
+
+Should end up looking like this:
+
+![Adapter front](adapterfront.jpg)
+
+![Adapter back](adapterback.jpg)
 
 ## Dumping EV29LV160
 
@@ -50,3 +58,4 @@ Gerbers ready for fabrication is available in adapter/gerber/gerber.zip
 
 ![Board](adapter_board.png)
 
+![PCB](adapterpcb.jpg)
